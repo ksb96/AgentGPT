@@ -114,7 +114,7 @@ Both AgentGPT and AutoGPT are projects involving autonomous AI agents. AutoGPT i
 
 <details>
 <summary>What can AgentGPT do?</summary>
-AgentGPT can do a lot, but we're also working on giving it a lot more capabilities. Visit our <a href="/usecases">usecases</a> page to learn about how people currently use AgentGPT.
+AgentGPT can do a lot, but we're also working on giving it a lot more capabilities. Visit our <a href="/usecases">use cases</a> page to learn about how people currently use AgentGPT.
 </details>
 
 <details>
